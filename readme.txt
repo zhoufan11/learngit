@@ -4,3 +4,5 @@ Git is free sofeware distributed under the GPL
 Git has a mutable index call stage
 
 Creating a new branch is quick
+
+add another line
