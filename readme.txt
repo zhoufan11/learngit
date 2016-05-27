@@ -3,6 +3,7 @@ Git is free sofeware distributed under the GPL
 1222
 Git has a mutable index call stage
 git git
+ss
 Creating a new branch is quick and simple
 add another line
 ls
